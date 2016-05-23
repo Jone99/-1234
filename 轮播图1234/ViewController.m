@@ -26,7 +26,7 @@
     demoContainerView.contentSize = CGSizeMake(self.view.frame.size.width, 1200);
     [self.view addSubview:demoContainerView];
     
-    self.title = @"轮播Demo";
+//    self.title = @"轮播Demo";
     
     // 情景一：采用本地图片实现
     NSArray *imageNames = @[@"h1.jpg",
